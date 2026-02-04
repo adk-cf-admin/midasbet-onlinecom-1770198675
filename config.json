@@ -43,7 +43,7 @@
             "imageSizeModifier": 0,
             "imageYModifier": 0,
             "imageXModifier": 0,
-            "logoAlt": "Paf Casino Sverige Logo"
+            "logoAlt": "MidasBet Logo"
         },
         "nav": {
             "signUp": "Sign Up",
@@ -54,7 +54,7 @@
             "imageSizeModifier": 0,
             "imageYModifier": 0,
             "imageXModifier": 0,
-            "copyright": "Paf Casino"
+            "copyright": "MidasBet"
         }
     },
     "pages": [
@@ -67,18 +67,18 @@
             "isDefault": true,
             "sections": {
                 "seo": {
-                    "name": "Paf Casino Sverige",
-                    "title": "Paf Casino Sverige: Licensierat kasino med bonusar och coola spel",
-                    "description": "Paf Casino Sweden erbjuder snabba uttag, satsningsfria bonusar, ett brett urval av spel, säkra insättningar och uttag. Spela med komfort och säkerhet och glöm inte att hämta din bonus!",
-                    "canonical": "#",
+                    "name": "MidasBet",
+                    "title": "MidasBet: Sports, Racing, Multis, Bonuses, and Withdrawals",
+                    "description": "Play sports and racing with MidasBet—use Same Game Multi and Same Race Multi, enjoy promos and activity rewards, keep your account secure, cash out fast, and get 24\/7 support for a smooth wagering experience.",
+                    "canonical": "midasbet-online.com",
                     "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2549",
                     "ogImageWidth": 1200,
                     "ogImageHeight": 630,
-                    "twitterSite": "@pafcasino",
+                    "twitterSite": "midasbet-online.com",
                     "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/2550"
                 },
                 "hero": {
-                    "title": "H1 title about casino",
+                    "title": "MidasBet — Sports and Racing with Fast Payouts",
                     "textDesktop": "Exclusive welcome offer of",
                     "textMobile": "Exclusive welcome bonus of",
                     "playGame": "Play game",
